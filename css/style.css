@@ -1119,6 +1119,9 @@ b{
 	.contacts .info{
 		margin-left:20px;
 	}
+	.page {
+		overflow-x: hidden;
+	}
 }
 @media (max-width: 380px){
 	#preloader .logo-site img{
